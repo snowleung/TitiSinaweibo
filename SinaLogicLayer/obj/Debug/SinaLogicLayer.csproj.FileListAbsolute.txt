@@ -1,0 +1,21 @@
+C:\aaamy\vs2008Solution\WeiboTest\SinaLogicLayer\bin\Debug\SinaLogicLayer.dll
+C:\aaamy\vs2008Solution\WeiboTest\SinaLogicLayer\bin\Debug\SinaLogicLayer.pdb
+C:\aaamy\vs2008Solution\WeiboTest\SinaLogicLayer\bin\Debug\SinaBusiness.dll
+C:\aaamy\vs2008Solution\WeiboTest\SinaLogicLayer\bin\Debug\SinaBusiness.pdb
+C:\aaamy\vs2008Solution\WeiboTest\SinaLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\aaamy\vs2008Solution\WeiboTest\SinaLogicLayer\obj\Debug\SinaLogicLayer.dll
+C:\aaamy\vs2008Solution\WeiboTest\SinaLogicLayer\obj\Debug\SinaLogicLayer.pdb
+D:\myworkSpace\vs2008Solution\WeiboTest\SinaLogicLayer\bin\Debug\SinaLogicLayer.dll
+D:\myworkSpace\vs2008Solution\WeiboTest\SinaLogicLayer\bin\Debug\SinaLogicLayer.pdb
+D:\myworkSpace\vs2008Solution\WeiboTest\SinaLogicLayer\bin\Debug\SinaBusiness.dll
+D:\myworkSpace\vs2008Solution\WeiboTest\SinaLogicLayer\bin\Debug\SinaBusiness.pdb
+D:\myworkSpace\vs2008Solution\WeiboTest\SinaLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\myworkSpace\vs2008Solution\WeiboTest\SinaLogicLayer\obj\Debug\SinaLogicLayer.dll
+D:\myworkSpace\vs2008Solution\WeiboTest\SinaLogicLayer\obj\Debug\SinaLogicLayer.pdb
+C:\Users\snow\Desktop\新建文件夹 (2)\SinaLogicLayer\bin\Debug\SinaLogicLayer.dll
+C:\Users\snow\Desktop\新建文件夹 (2)\SinaLogicLayer\bin\Debug\SinaLogicLayer.pdb
+C:\Users\snow\Desktop\新建文件夹 (2)\SinaLogicLayer\bin\Debug\SinaBusiness.dll
+C:\Users\snow\Desktop\新建文件夹 (2)\SinaLogicLayer\bin\Debug\SinaBusiness.pdb
+C:\Users\snow\Desktop\新建文件夹 (2)\SinaLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\snow\Desktop\新建文件夹 (2)\SinaLogicLayer\obj\Debug\SinaLogicLayer.dll
+C:\Users\snow\Desktop\新建文件夹 (2)\SinaLogicLayer\obj\Debug\SinaLogicLayer.pdb

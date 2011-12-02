@@ -1,0 +1,5 @@
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\SinaBusiness\bin\Debug\SinaBusiness.dll
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\SinaBusiness\bin\Debug\SinaBusiness.pdb
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\SinaBusiness\obj\Debug\ResolveAssemblyReference.cache
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\SinaBusiness\obj\Debug\SinaBusiness.dll
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\SinaBusiness\obj\Debug\SinaBusiness.pdb

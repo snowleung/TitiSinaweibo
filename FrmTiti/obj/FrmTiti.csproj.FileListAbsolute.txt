@@ -1,0 +1,12 @@
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\FrmTiti\bin\Debug\FrmTiti.exe
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\FrmTiti\bin\Debug\FrmTiti.pdb
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\FrmTiti\obj\Debug\ResolveAssemblyReference.cache
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\FrmTiti\obj\Debug\FrmTiti.Properties.Resources.resources
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\FrmTiti\obj\Debug\FrmTiti.csproj.GenerateResource.Cache
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\FrmTiti\obj\Debug\FrmTiti.exe
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\FrmTiti\obj\Debug\FrmTiti.pdb
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\FrmTiti\obj\Debug\FrmTiti.Form1.resources
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\FrmTiti\bin\Debug\SinaBusiness.dll
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\FrmTiti\bin\Debug\SinaBusiness.pdb
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\FrmTiti\obj\Debug\FrmTiti.frmPictureShow.resources
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\FrmTiti\obj\Debug\FrmTiti.frmLogin.resources

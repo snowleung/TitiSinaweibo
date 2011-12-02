@@ -1,0 +1,109 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7EA8BD2A-546E-496C-8EEC-2D5E918C9CC3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SinaBusiness</RootNamespace>
+    <AssemblyName>SinaBusiness</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Config\ENC.cs" />
+    <Compile Include="Config\SConfig.cs" />
+    <Compile Include="Domain\SinaEmotion.cs" />
+    <Compile Include="Domain\SinaModelFactory.cs" />
+    <Compile Include="Domain\SinaStatus.cs" />
+    <Compile Include="Domain\SinaUser.cs" />
+    <Compile Include="AbsSinaResponse.cs" />
+    <Compile Include="Domain\SinaComment.cs" />
+    <Compile Include="ISinaClient.cs" />
+    <Compile Include="ISinaResquest.cs" />
+    <Compile Include="ISinaUploadRequest.cs" />
+    <Compile Include="libs\oAuthBase.cs" />
+    <Compile Include="libs\oAuthSina.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SinaClient.cs" />
+    <Compile Include="SinaRequest\WBAccessReplyRequest.cs" />
+    <Compile Include="SinaRequest\WBAccessCommentRequest.cs" />
+    <Compile Include="SinaRequest\WBAccessRepostRequest.cs" />
+    <Compile Include="SinaRequest\WBAccessUpdateRequest.cs" />
+    <Compile Include="SinaRequest\WBAccessUploadRequest.cs" />
+    <Compile Include="SinaRequest\WBEmotionsRequest.cs" />
+    <Compile Include="SinaRequest\WBUsertimelineRequest.cs" />
+    <Compile Include="SinaResponse\AssemblyFactory.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SinaResponse\WBAccessCommentResponse.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SinaResponse\WBAccessReplyResponse.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SinaResponse\WBAccessRepostResponse.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SinaResponse\WBAccessUpdateResponse.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SinaResponse\WBAccessUploadResponse.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SinaResponse\WBEmotionsResponse.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SinaResponse\WBFriendtimelineResponse.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SinaResponse\WBUsertimelineResponse.cs" />
+    <Compile Include="SRequest.cs" />
+    <Compile Include="SinaRequest\WBFriendtimelineRequest.cs" />
+    <Compile Include="Tools\FileItem.cs" />
+    <Compile Include="Tools\SinaDictionary.cs" />
+    <Compile Include="Tools\WebUtils.cs" />
+    <Compile Include="Tools\XmlConvert.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

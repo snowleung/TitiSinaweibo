@@ -1,0 +1,7 @@
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\WeiboTest\bin\Debug\WeiboTest.exe
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\WeiboTest\bin\Debug\WeiboTest.pdb
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\WeiboTest\obj\Debug\ResolveAssemblyReference.cache
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\WeiboTest\obj\Debug\WeiboTest.exe
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\WeiboTest\obj\Debug\WeiboTest.pdb
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\WeiboTest\bin\Debug\SinaBusiness.dll
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\WeiboTest\bin\Debug\SinaBusiness.pdb

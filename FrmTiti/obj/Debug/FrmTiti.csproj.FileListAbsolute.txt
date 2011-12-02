@@ -1,0 +1,36 @@
+C:\aaamy\vs2008Solution\WeiboTest\FrmTiti\obj\Debug\FrmTiti.exe
+C:\aaamy\vs2008Solution\WeiboTest\FrmTiti\obj\Debug\FrmTiti.pdb
+C:\aaamy\vs2008Solution\WeiboTest\FrmTiti\bin\Debug\FrmTiti.exe
+C:\aaamy\vs2008Solution\WeiboTest\FrmTiti\bin\Debug\FrmTiti.pdb
+C:\aaamy\vs2008Solution\WeiboTest\FrmTiti\bin\Debug\SinaBusiness.dll
+C:\aaamy\vs2008Solution\WeiboTest\FrmTiti\bin\Debug\SinaBusiness.pdb
+C:\aaamy\vs2008Solution\WeiboTest\FrmTiti\obj\Debug\ResolveAssemblyReference.cache
+C:\aaamy\vs2008Solution\WeiboTest\FrmTiti\obj\Debug\FrmTiti.Form1.resources
+C:\aaamy\vs2008Solution\WeiboTest\FrmTiti\obj\Debug\FrmTiti.frmLogin.resources
+C:\aaamy\vs2008Solution\WeiboTest\FrmTiti\obj\Debug\FrmTiti.frmPictureShow.resources
+C:\aaamy\vs2008Solution\WeiboTest\FrmTiti\obj\Debug\FrmTiti.Properties.Resources.resources
+C:\aaamy\vs2008Solution\WeiboTest\FrmTiti\obj\Debug\FrmTiti.csproj.GenerateResource.Cache
+D:\myworkSpace\vs2008Solution\WeiboTest\FrmTiti\bin\Debug\FrmTiti.exe
+D:\myworkSpace\vs2008Solution\WeiboTest\FrmTiti\bin\Debug\FrmTiti.pdb
+D:\myworkSpace\vs2008Solution\WeiboTest\FrmTiti\bin\Debug\SinaBusiness.dll
+D:\myworkSpace\vs2008Solution\WeiboTest\FrmTiti\bin\Debug\SinaBusiness.pdb
+D:\myworkSpace\vs2008Solution\WeiboTest\FrmTiti\obj\Debug\ResolveAssemblyReference.cache
+D:\myworkSpace\vs2008Solution\WeiboTest\FrmTiti\obj\Debug\FrmTiti.Form1.resources
+D:\myworkSpace\vs2008Solution\WeiboTest\FrmTiti\obj\Debug\FrmTiti.frmLogin.resources
+D:\myworkSpace\vs2008Solution\WeiboTest\FrmTiti\obj\Debug\FrmTiti.frmPictureShow.resources
+D:\myworkSpace\vs2008Solution\WeiboTest\FrmTiti\obj\Debug\FrmTiti.Properties.Resources.resources
+D:\myworkSpace\vs2008Solution\WeiboTest\FrmTiti\obj\Debug\FrmTiti.csproj.GenerateResource.Cache
+D:\myworkSpace\vs2008Solution\WeiboTest\FrmTiti\obj\Debug\FrmTiti.exe
+D:\myworkSpace\vs2008Solution\WeiboTest\FrmTiti\obj\Debug\FrmTiti.pdb
+C:\Users\snow\Desktop\新建文件夹 (2)\FrmTiti\bin\Debug\FrmTiti.exe
+C:\Users\snow\Desktop\新建文件夹 (2)\FrmTiti\bin\Debug\FrmTiti.pdb
+C:\Users\snow\Desktop\新建文件夹 (2)\FrmTiti\bin\Debug\SinaBusiness.dll
+C:\Users\snow\Desktop\新建文件夹 (2)\FrmTiti\bin\Debug\SinaBusiness.pdb
+C:\Users\snow\Desktop\新建文件夹 (2)\FrmTiti\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\snow\Desktop\新建文件夹 (2)\FrmTiti\obj\Debug\FrmTiti.Form1.resources
+C:\Users\snow\Desktop\新建文件夹 (2)\FrmTiti\obj\Debug\FrmTiti.frmLogin.resources
+C:\Users\snow\Desktop\新建文件夹 (2)\FrmTiti\obj\Debug\FrmTiti.frmPictureShow.resources
+C:\Users\snow\Desktop\新建文件夹 (2)\FrmTiti\obj\Debug\FrmTiti.Properties.Resources.resources
+C:\Users\snow\Desktop\新建文件夹 (2)\FrmTiti\obj\Debug\FrmTiti.csproj.GenerateResource.Cache
+C:\Users\snow\Desktop\新建文件夹 (2)\FrmTiti\obj\Debug\FrmTiti.exe
+C:\Users\snow\Desktop\新建文件夹 (2)\FrmTiti\obj\Debug\FrmTiti.pdb

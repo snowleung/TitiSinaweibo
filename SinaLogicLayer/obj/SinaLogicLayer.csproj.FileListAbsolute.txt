@@ -1,0 +1,7 @@
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\SinaLogicLayer\bin\Debug\SinaLogicLayer.dll
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\SinaLogicLayer\bin\Debug\SinaLogicLayer.pdb
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\SinaLogicLayer\bin\Debug\SinaBusiness.dll
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\SinaLogicLayer\bin\Debug\SinaBusiness.pdb
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\SinaLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\SinaLogicLayer\obj\Debug\SinaLogicLayer.dll
+C:\aaamy\vs2005Solution\sinaweibo\WeiboTest\SinaLogicLayer\obj\Debug\SinaLogicLayer.pdb

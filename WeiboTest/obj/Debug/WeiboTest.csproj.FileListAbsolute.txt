@@ -1,0 +1,21 @@
+C:\aaamy\vs2008Solution\WeiboTest\WeiboTest\bin\Debug\WeiboTest.exe
+C:\aaamy\vs2008Solution\WeiboTest\WeiboTest\bin\Debug\WeiboTest.pdb
+C:\aaamy\vs2008Solution\WeiboTest\WeiboTest\bin\Debug\SinaBusiness.dll
+C:\aaamy\vs2008Solution\WeiboTest\WeiboTest\bin\Debug\SinaBusiness.pdb
+C:\aaamy\vs2008Solution\WeiboTest\WeiboTest\obj\Debug\ResolveAssemblyReference.cache
+C:\aaamy\vs2008Solution\WeiboTest\WeiboTest\obj\Debug\WeiboTest.exe
+C:\aaamy\vs2008Solution\WeiboTest\WeiboTest\obj\Debug\WeiboTest.pdb
+D:\myworkSpace\vs2008Solution\WeiboTest\WeiboTest\bin\Debug\WeiboTest.exe
+D:\myworkSpace\vs2008Solution\WeiboTest\WeiboTest\bin\Debug\WeiboTest.pdb
+D:\myworkSpace\vs2008Solution\WeiboTest\WeiboTest\bin\Debug\SinaBusiness.dll
+D:\myworkSpace\vs2008Solution\WeiboTest\WeiboTest\bin\Debug\SinaBusiness.pdb
+D:\myworkSpace\vs2008Solution\WeiboTest\WeiboTest\obj\Debug\ResolveAssemblyReference.cache
+D:\myworkSpace\vs2008Solution\WeiboTest\WeiboTest\obj\Debug\WeiboTest.exe
+D:\myworkSpace\vs2008Solution\WeiboTest\WeiboTest\obj\Debug\WeiboTest.pdb
+C:\Users\snow\Desktop\新建文件夹 (2)\WeiboTest\bin\Debug\WeiboTest.exe
+C:\Users\snow\Desktop\新建文件夹 (2)\WeiboTest\bin\Debug\WeiboTest.pdb
+C:\Users\snow\Desktop\新建文件夹 (2)\WeiboTest\bin\Debug\SinaBusiness.dll
+C:\Users\snow\Desktop\新建文件夹 (2)\WeiboTest\bin\Debug\SinaBusiness.pdb
+C:\Users\snow\Desktop\新建文件夹 (2)\WeiboTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\snow\Desktop\新建文件夹 (2)\WeiboTest\obj\Debug\WeiboTest.exe
+C:\Users\snow\Desktop\新建文件夹 (2)\WeiboTest\obj\Debug\WeiboTest.pdb
